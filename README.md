@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Paul 👋
 
-<!--
-**pauly4it/pauly4it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Builder, engineer, problem solver, and leader.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hands-on and adaptable Engineering and Product leader with 10+ years combined experience working in the startup space and on products in regulated industries. Using Systems Thinking to solve complex problems.
+
+Over the years I've worked in a wide range of industries: healthcare software, medical devices, digital health & fitness, payment processing, point of sale software and hardware, ecommerce, inventory management, fintech, blockchain, cryptocurrency, and charitable giving.
+
+Currently focusing on infrastructure engineering, devops, and security and compliance as Director of Product, Security, at @Ready-Responders.
+
+### Where to find me
+
+[💼 LinkedIn](https://www.linkedin.com/in/pauljforyt) | [🤖 Twitter](https://twitter.com/pauly4it) | [📸 Instagram](https://www.instagram.com/pauly4it)
