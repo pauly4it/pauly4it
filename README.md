@@ -8,8 +8,6 @@ Hands-on and adaptable Engineering and Product leader with 10+ years combined ex
 
 Over the years I've worked in a wide range of industries: healthcare software, medical devices, digital health & fitness, payment processing, point of sale software and hardware, ecommerce, inventory management, fintech, blockchain, cryptocurrency, and charitable giving.
 
-Currently focusing on infrastructure engineering, devops, and security and compliance as Director of Product, Security, at @Ready-Responders.
-
 ### Where to find me
 
-[💼 LinkedIn](https://www.linkedin.com/in/pauljforyt) | [🤖 Twitter](https://twitter.com/pauly4it) | [📸 Instagram](https://www.instagram.com/pauly4it)
+[Personal Site](https://foryt.com) | [LinkedIn](https://www.linkedin.com/in/pauljforyt) | [Twitter](https://twitter.com/pauly4it) | [Instagram](https://www.instagram.com/pauly4it)
